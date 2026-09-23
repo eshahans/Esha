@@ -1,0 +1,17 @@
+{
+  "next_id": 3,
+  "sprints": {
+    "1": {
+      "title": "Create listing form and listings page",
+      "epic": "Local-Life Sublet Prototype",
+      "status": "todo",
+      "file": "docs\\sprints\\1-todo\\sprint-1_create-listing-form-and-listings-page.md"
+    },
+    "2": {
+      "title": "Listing detail page and navigation",
+      "epic": "Local-Life Sublet Prototype",
+      "status": "todo",
+      "file": "docs\\sprints\\1-todo\\sprint-2_listing-detail-page-and-navigation.md"
+    }
+  }
+}
