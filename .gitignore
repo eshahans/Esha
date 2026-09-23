@@ -2,3 +2,10 @@
 docs/sprints/.locks/
 *.fc-bak-*
 .claude/role-claims.json
+
+# App (Vite + React + TypeScript)
+node_modules
+dist
+dist-ssr
+*.local
+npm-debug.log*
