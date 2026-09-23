@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "title": "Create listing form and listings page",
+  "phase": "dev_build",
+  "qa1_audit_result": null,
+  "qa1_audit_file_hash": null,
+  "qa1_audited_tree_hash": null,
+  "last_shipped_commit": null,
+  "groundtruth_result": null,
+  "live_loop_audit_trees": [],
+  "audit_rounds": 0,
+  "live_test_rounds": 0,
+  "started": "2026-09-23T01:51:29+00:00",
+  "completed": null,
+  "history": [
+    {
+      "ts": "2026-09-23T01:51:29+00:00",
+      "actor": "system",
+      "event": "sprint_started",
+      "detail": ""
+    }
+  ],
+  "last_claim": {
+    "claude_session_id": "d2da29b9-9714-55b0-a4e3-bc8fc2c69566",
+    "claude_agent": "dev-team-1",
+    "ts": "2026-09-23T01:51:29+00:00"
+  }
+}

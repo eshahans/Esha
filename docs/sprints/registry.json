@@ -4,8 +4,8 @@
     "1": {
       "title": "Create listing form and listings page",
       "epic": "Local-Life Sublet Prototype",
-      "status": "todo",
-      "file": "docs\\sprints\\1-todo\\sprint-1_create-listing-form-and-listings-page.md"
+      "status": "in_progress",
+      "file": "docs\\sprints\\2-in-progress\\sprint-1_create-listing-form-and-listings-page.md"
     },
     "2": {
       "title": "Listing detail page and navigation",

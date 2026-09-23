@@ -2,7 +2,7 @@
 id: 1
 title: "Create listing form and listings page"
 epic: "Local-Life Sublet Prototype"
-status: todo
+status: in_progress
 created: 2026-09-23T01:44:40+00:00
 ---
 
